@@ -29,5 +29,5 @@ Aqui os dejo algo de codigo random
 ```python
 lista_objetos = ["Libreta", "Lapiz", "Gafas"]
 for i in lista_objetos:
-    print(lista_objetos[i])
+    print(i)
 ```
