@@ -23,3 +23,11 @@ Como no se que poner haré una lista de mis cosas preferidas
 - Hacia el futuro aprender `Lua` aunque solo sea porque el emulador de terminal que uso se configura asi
 
 ## Y eso es todo por el momento,
+
+Aqui os dejo algo de codigo random
+
+```python
+lista_objetos = ["Libreta", "Lapiz", "Gafas"]
+for i in lista_objetos:
+    print(lista_objetos[i])
+```
