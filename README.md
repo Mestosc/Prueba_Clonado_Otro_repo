@@ -17,7 +17,7 @@ Como no se que poner haré una lista de mis cosas preferidas
 
 ## Habilidades con las que me estoy metiendo
 
-- Cosas con Docker (para el server personal ya mencionado) muy basico todo he usado docker-compose para archivos `docker-compose.yml` ya hechos y los toquete un poco y basicamente desplegar contenedores sin tener mucha idea nada muy serio me suena la existencia de los `DockerFile` y cosas asi
+- Cosas con Docker (para el server personal ya mencionado) muy basico todo he usado docker-compose para archivos `docker-compose.yml` ya hechos y los toquete un poco y basicamente desplegar contenedores sin tener mucha idea nada muy serio me suena la existencia de los `DockerFile` y cosas asi o sea no podria crearme uno de cero es más que tengo conocimientos basicos
 - Alguna cosa en Python(descargador de videos que ya no va, y alguna otra cosa)
 - Hice alguna cosa muy basica con `SSH` tambien para ese server personal basicamente acceder al portatil viejo remotamente
 - Hacia el futuro aprender `Lua` aunque solo sea porque el emulador de terminal que uso se configura asi
